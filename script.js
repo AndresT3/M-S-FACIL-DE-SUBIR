@@ -1,6 +1,6 @@
-let botonRojo = document.getElementById("rojo");
-let botonAzul = document.getElementById("azul");
-let botonVerde = document.getElementById("verde");
+let botonRojo = document.getElementById("orange");
+let botonAzul = document.getElementById("black");
+let botonVerde = document.getElementById("silver");
 
 botonRojo.addEventListener("click", function() {
     document.body.style.backgroundColor = "lightorange";
